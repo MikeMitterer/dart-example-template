@@ -1,4 +1,4 @@
-# Test reflected_mustache in browser
+# DART example template
 
 Run this example with:
 
