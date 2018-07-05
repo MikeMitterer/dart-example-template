@@ -1,0 +1,24 @@
+name: dart_example_template
+version: 0.0.1
+
+author: Mike Mitterer <office@mikemitterer.at>
+description: An absolute bare-bones web app.
+#homepage: https://www.example.com
+
+environment:
+  sdk: '>=1.0.0 <2.0.0'
+
+dependencies:
+  reflectable: #^2.0.0
+    path: /Volumes/Daten/DevLocal/DevDart/reflectable
+
+dev_dependencies:
+  test: any
+
+  build_runner: ^0.8.10
+  build_test: ^0.10.0
+  build_web_compilers: ^0.4.0
+
+  sass_builder: any
+
+
